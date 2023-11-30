@@ -12,9 +12,6 @@ sites:
   - name: CH Server
     url: https://cdn.kulik.uz/
 
-assignees: # Users to assign downtime issues (optional)
-  - upptime/uptime-monitor@v1.33.0
-
 status-website:
   cname: status.kulik.uz
   favicon: https://raw.githubusercontent.com/chdtv/uptime/master/logo.png
