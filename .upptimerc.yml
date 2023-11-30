@@ -13,7 +13,7 @@ sites:
     url: https://cdn.kulik.uz/
 
 assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
+  - upptime/uptime-monitor@v1.33.0
 
 status-website:
   cname: status.kulik.uz
