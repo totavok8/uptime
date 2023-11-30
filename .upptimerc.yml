@@ -12,6 +12,9 @@ sites:
   - name: CH Server
     url: https://cdn.kulik.uz/
 
+  assignees: # Users to assign downtime issues (optional)
+    - shawnyeager
+
 status-website:
   cname: status.kulik.uz
   favicon: https://raw.githubusercontent.com/chdtv/uptime/master/logo.png
